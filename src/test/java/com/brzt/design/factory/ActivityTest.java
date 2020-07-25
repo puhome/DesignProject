@@ -1,6 +1,7 @@
 package com.brzt.design.factory;
 
 import com.brzt.design.factory.enums.ActivityType;
+import com.brzt.design.factory.impl.Lottery;
 import org.junit.Before;
 import org.junit.Test;
 

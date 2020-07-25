@@ -11,4 +11,9 @@ public class FeedBack implements Activity {
     public void action() {
         System.out.println("留言");
     }
+
+    public void feedBack(String s)
+    {
+        System.out.println("留言："+s);
+    }
 }
